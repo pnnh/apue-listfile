@@ -1,3 +1,5 @@
+[English](README.md)|[中文](README.zh.md)
+
 Demonstrate how to list all files in a directory in C language under UNIX environment
 
 For source code interpretation and compilation execution, please refer to the following article
